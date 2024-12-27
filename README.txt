@@ -11,13 +11,13 @@ FrontEnd Files: Alert.swift, Budget.swift, Category.swift, Transaction.swift, Us
 
 How to execute: 
 Start your backend - cd Backend
-1. source myenv/bin/activate 
+1. source myenv/bin/activate -- CAUTION(You will probably need to create your own virtual environment and install everything)
 2. Install dependecies - pip install -r requirements.txt
 3. python app.py
-4. Go to xcode - click run button or command + r if on Mac
+4. Go to xcode -bring in all of the xcode files - click run button or command + r if on Mac
 
 
-Source: 
+Sources: 
 1. iOS Human Interface Guidelines
 	•	URL: https://developer.apple.com/design/human-interface-guidelines/
 	•	Purpose: Guidelines for designing a user-friendly iOS app.
