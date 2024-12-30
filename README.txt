@@ -11,11 +11,11 @@ FrontEnd Files: Alert.swift, Budget.swift, Category.swift, Transaction.swift, Us
 
 How to execute: 
 Start your backend - cd Backend
-1. source myenv/bin/activate -- CAUTION(You will probably need to create your own virtual environment and install everything)
-2. Install dependecies - pip install -r requirements.txt
-3. python app.py
-4. Go to xcode -bring in all of the xcode files - click run button or command + r if on Mac
-
+1. python3 -m venv myenv   
+2. source myenv/bin/activate 
+3. Install dependecies: pip install -r requirements.txt
+4. python app.py
+5. Go to xcode - click run button or command + r if on Mac
 
 Sources: 
 1. iOS Human Interface Guidelines
