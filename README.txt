@@ -15,15 +15,15 @@ Start your backend - cd Backend
 2. source myenv/bin/activate 
 3. Install dependecies: pip install -r requirements.txt
 4. python app.py
-5. Go to xcode - click run button or command + r if on Mac
+5. Go to Xcode - click run button or command + r if on Mac
 
 Sources: 
 1. iOS Human Interface Guidelines
 	•	URL: https://developer.apple.com/design/human-interface-guidelines/
 	•	Purpose: Guidelines for designing a user-friendly iOS app.
-2.	Usability Heuristics (Jakob Nielsen)
+2. Usability Heuristics (Jakob Nielsen)
 	•	URL: https://www.nngroup.com/articles/ten-usability-heuristics/
-	•	Purpose: For ensuring usability in the app design.
+	•	Purpose: To ensure usability in the app design.
 3. OpenAI Documentation (for Assistance in Coding)
 	•	URL: https://openai.com/
 	•	Purpose: Assistance in generating, refining, and debugging parts of the code.
